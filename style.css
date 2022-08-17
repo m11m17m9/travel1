@@ -1,0 +1,354 @@
+
+
+
+
+
+@media (max-width: 900px) {
+    .content {
+     float:none;
+     width:100%;
+   }
+   .slider-left {
+    float:none;
+    width:100%;
+   }
+   }
+   @media (max-width: 400px) {
+    .content {
+     float:none;
+     width:100%;
+   }
+   .slider-left {
+    float:none;
+    width:100%;
+   }
+   .warp-all {
+    width:98%;
+    
+   }
+   }
+
+
+
+
+   
+   
+   body{
+       padding: 9px;
+     box-sizing: border-box;
+     background: linear-gradient(
+         0deg,
+         rgba(8, 44, 113, 0.6),
+         rgba(8, 44, 113, 0.6)
+       ),
+       url(bac.png),
+       linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1));
+     
+    
+   }
+.nav{
+    
+    margin: 0px;
+    padding: 1rem;
+    justify-content: flex-end;
+    display: flex;
+align-items: center;
+justify-content: flex-end;
+
+box-sizing: border-box;
+
+
+
+
+
+
+}
+
+.nav-title{
+    margin: auto;
+    margin-left: 7em;
+    color: rgb(252, 247, 247);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: #000;
+
+}
+ul{
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  
+  
+
+}
+li{
+    color: #000;
+    list-style-type: none;
+    float: left;
+    justify-content: end;
+    margin-right: 7em;
+}
+li a{
+    display: inline-block;
+    color: rgb(249, 246, 246);
+    
+    
+    text-decoration: none;
+   
+width: 57px;
+height: 44px;
+left: 1068px;
+top: 23px;
+
+font-family: 'Imprima';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;   
+    
+}
+.btn{
+  
+width: 70px;
+height: 30px;
+
+color: aliceblue;
+
+background: #0C1077;
+border: 1px solid #0C1077;
+border-radius: 20px;
+}
+
+.c{
+
+    position: absolute;
+    width: 600px;
+    height: 390px;
+    left: 147px;
+    top: 90px;
+    @import url("https://fonts.googleapis.com/css2?family=Imprima:wght@400&display=swap");
+    @import url("https://fonts.googleapis.com/css2?family=Cormorant Infant:wght@700&display=swap");
+    
+    font-style: normal;
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 115px;
+   
+    
+    color:white;
+
+}
+.b12{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 150px;
+top: 550px;
+
+
+}
+.pp1{
+    width: 50px;
+    height: 50px;
+    border-radius: 70px;
+}
+.b12{
+    display:flex;
+}
+.b22{
+    width: 300px;
+   
+    color: white;
+    margin-top: 10px;
+    margin-left: 5px;
+
+}
+.b13{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 300px;
+top: 550px;
+
+
+}
+.pp2{
+    width: 50px;
+    height: 50px;
+    border-radius: 70px;
+}
+.b13{
+    display:flex;
+}
+.b44{
+    width: 300px;
+    font-family: 'Cormorant Infant';
+    color: white;
+    margin-top: 10px;
+    margin-left: 5px;
+
+}
+.r1{
+    display: flex;
+}
+
+
+.b16{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 150px;
+top: 610px;
+
+
+}
+.pp6{
+    width: 50px;
+    height: 50px;
+    border-radius: 70px;
+}
+.b16{
+    display:flex;
+}
+.b77{
+    width: 300px;
+    font-family: 'Cormorant Infant';
+    color: white;
+    margin-top: 10px;
+    margin-left: 5px;
+
+}
+.b18{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 300px;
+top: 610px;
+
+
+}
+.pp8{
+    width: 50px;
+    height: 50px;
+    border-radius: 70px;
+}
+.b18{
+    display:flex;
+}
+.b99{
+    width: 300px;
+    font-family: 'Cormorant Infant';
+    color: white;
+    margin-top: 10px;
+    margin-left: 5px;
+
+}
+.r2{
+    display: flex;
+}
+.box1{
+width: 1105px;
+height: 150px;
+margin-left: 140px;
+background-color: #0C1077;
+margin-top: 600px;
+opacity: 0.5;
+content:"";
+position: absolute;
+z-index: -1;
+}
+
+
+
+.k16{
+    position: absolute;
+width: 100px;
+height: 100px;
+
+
+}
+.kk6{
+    width: 100px;
+    height: 100px;
+   
+}
+.k16{
+    display:flex;
+}
+.k77{
+    width: 300px;
+    font-family: 'Cormorant Infant';
+    color: white;
+    margin-top: 10px;
+    margin-left: 5px;
+
+}
+.n18{
+    position: absolute;
+width: 50px;
+height: 50px;
+
+
+}
+.nn8{
+    width: 50px;
+    height: 50px;
+  
+}
+.n18{
+    display:flex;
+}
+.n99{
+    width: 300px;
+    font-family: 'Cormorant Infant';
+    color: white;
+    margin-top: 10px;
+    margin-left: 5px;
+
+}
+.r3{
+    display: flex;
+}
+.f1{
+    width: 137px;
+    height: 135px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.box2{
+    display: flex;
+}
+.cl{
+    margin-top: 40px;
+    padding-left: 30px;
+    color: azure;
+}
+.cl1{
+    margin-top: 40px;
+    padding-left: 30px;
+    color: azure;
+}
+
+
+
+
+
+.box3{
+    display: flex;
+    margin-left: 500px;
+    margin-top: -150px;
+}
+
+.f2{
+    width: 137px;
+    height: 135px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+
+
+
+
+
